@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Còn lâu :3',
     question:'Giữa 7 tỉ người trên thế giới tại sao Hương lại chọn Duy vậy!!!',
     btnReply: 'Gửi cho anh ❤',
-    reply: 'Ừa .....thì emm thương anhhh :333  ',
+    reply: 'Ừa .....thì emm thương anhhhh :333  ',
     mess: 'Anh biết mà :)) . Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hôm sau ra Đà Nẵng anh sang đón đi chơi nhá!!!!!',
     btnAccept: 'Okiiiii lun ❤',
